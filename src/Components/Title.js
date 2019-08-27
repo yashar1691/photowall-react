@@ -5,3 +5,5 @@ class Title extends Component {
         return <h1>{this.props.title}</h1>
     }
 } 
+
+export default Title
